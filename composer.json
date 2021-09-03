@@ -1,0 +1,5 @@
+{
+    "name": "jursaconsulting/tui-editor",
+    "description": "fork of https://github.com/nhn/tui.editor with composer.json",
+    "type": "library"
+}
